@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabri
    <img src="https://skillicons.dev/icons?i=py,blender,bots,html" />
   </a>
 </p>
-Additionals "skills":
+### Additionals "skills":
 - 🎨 Texture on paint.net
 - 🔨 .json models on BlockBench
