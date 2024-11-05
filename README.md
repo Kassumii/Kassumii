@@ -1,4 +1,5 @@
 # A Random Fabric Moder
+### My socials:
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=discord,twitter," />
