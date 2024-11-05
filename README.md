@@ -1,6 +1,12 @@
 # Hi there! Im {Insert Name} 👋
 Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabric! 
 
+<p align="center">
+  <a href="https://github.com">
+   <img src="https://github.com/Kassumii/Kassumii/blob/main/git-banner.png" />
+  </a>
+</p>
+
 # About me:
 - 📜 I'm Kassumi, a VERY young trans girl who want to make something interesting with her PC like... hmmm... maybe making mods for her fav game?
 - 📖 I'm currently learning the Fabric API and how tf github works :/
