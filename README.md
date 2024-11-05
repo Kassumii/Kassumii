@@ -1,4 +1,4 @@
-# A Random Fabric Moder
+# Hi there! Im {Insert Name}
 ### My socials:
 <p align="center">
   <a href="https://skillicons.dev">
