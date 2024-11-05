@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabri
 
 <p align="center">
   <a href="https://github.com">
-   <img src="https://github.com/Kassumii/Kassumii/blob/main/git-banner.png" />
+   <img src="https://github.com/Kassumii/Kassumii/blob/main/git-banner2.png" />
   </a>
 </p>
 
