@@ -30,10 +30,3 @@ Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabri
 ### Additionals skills:
 - 🎨 Texture on paint.net
 - 🔨 .json models on BlockBench
-
-# BAD APPLE REVIVE IN 2025 🔥🔥🔥
-<p align="center">
-  <a href="https://github.com">
-   <img src="https://github.com/Kassumii/Kassumii/blob/main/8545d366aabf8ce3da5729b0be93f001.gif" />
-  </a>
-</p>
