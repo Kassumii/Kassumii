@@ -1,5 +1,10 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=discord,java,py,js,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,java,py,js" />
+  </a>
+</p>
+
 <!--
 **Kassumii/Kassumii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
