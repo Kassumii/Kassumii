@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=kassum1&icon=5&color=10)](https://visitcount.itsvg.in)
+
 # Hi there! Im {Insert Name} 👋
 Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabric! 
 
