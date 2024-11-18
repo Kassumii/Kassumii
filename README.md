@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabri
 - 🔨 .json models on BlockBench
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.me/CassandreDELCROIX) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CassandreDELCROIX) 
