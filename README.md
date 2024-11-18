@@ -9,6 +9,11 @@ Welcome to my GitHub profile! I'm on my way to be a Minecraft mod-maker w/ Fabri
   </a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kassumii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kassumii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kassumii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # About me:
 - 📜 I'm Kassumi, a VERY young trans girl who want to make something interesting with her PC like... hmmm... maybe making mods for her fav game?
 - 📖 I'm currently learning the Fabric API and how tf github works :/
